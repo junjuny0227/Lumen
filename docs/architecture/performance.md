@@ -168,3 +168,4 @@ cargo build --release -p lumen-cli
 
 Scans are read-only. Run the same command twice and keep the second (warm-cache)
 result.
+
